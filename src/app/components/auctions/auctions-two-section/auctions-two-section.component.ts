@@ -9,7 +9,7 @@ export class AuctionsTwoSectionComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit(): void { 
   }
 
 }
